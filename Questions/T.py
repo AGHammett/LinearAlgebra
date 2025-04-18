@@ -1,5 +1,5 @@
 import numpy as np
-from projectionmatrix import projection_matrix
+from alexhlinalg import projection_matrix
 
 A = np.array(([3, 6, 6], [4, 8, 8]))
 
